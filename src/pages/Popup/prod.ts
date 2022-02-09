@@ -1,0 +1,10 @@
+export const DEVMODE = false;
+export const APILINK = 'https://app.taskreviewer.com'; // NO SLASH AT END.
+export const EUAPILINK = 'https://app.eu.taskreviewer.com';
+export const PUSHER_APP_KEY = 'bed576836b49533e592f';
+export const PUSHER_APP_CLUSTER = 'mt1';
+export const PUSHER_EU_APP_KEY = 'f81bfbddb4ed8fea84fe';
+export const PUSHER_EU_APP_CLUSTER = 'eu';
+export const APP_CLIENT_ID = 'b7d23164434a3644ffadfba9f219c5876e504e1a';
+export const APP_CLIENT_SECRET = '27dcf8c81ae822b7a63bd5b03596e4851880c496';
+export const CUSTOM_DOMAIN_EXTENSION = false;
